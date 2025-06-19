@@ -26,7 +26,7 @@ function App() {
       bgColor: 'bg-blue-50 hover:bg-blue-100',
       textColor: 'text-blue-700',
       features: ['Até 12x no cartão', 'Acesso imediato após aprovação'],
-      link: 'https://pay.kiwify.com.br/jk0QIb9'
+      link: 'https://mpago.la/2yLnMNA'
     },
     {
       id: 'boleto',
@@ -38,7 +38,7 @@ function App() {
       bgColor: 'bg-orange-50 hover:bg-orange-100',
       textColor: 'text-orange-700',
       features: ['Pode levar até 48h para compensar', 'Ideal se você não usa cartão'],
-      link: 'https://pay.kiwify.com.br/jk0QIb9'
+      link: 'https://mpago.la/2yLnMNA'
     }
   ];
 
